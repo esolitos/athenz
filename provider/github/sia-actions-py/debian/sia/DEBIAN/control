@@ -1,0 +1,5 @@
+Package: sia-github-actions-py
+Version: SIA_PACKAGE_VERSION
+Maintainer: cncf-athenz-maintainers@lists.cncf.io
+Architecture: amd64
+Description: GitHub Actions Athenz Service Identity Agent (Python)
